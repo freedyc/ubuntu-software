@@ -1,0 +1,10 @@
+{
+    "server":["45.77.132.211"],
+    "mode":"tcp_and_udp",
+    "local_address": "0.0.0.0",
+    "server_port":8388,
+    "local_port":1080,
+    "password":"Kffffff",
+    "timeout":60,
+    "method":"aes-256-cfb"
+}
